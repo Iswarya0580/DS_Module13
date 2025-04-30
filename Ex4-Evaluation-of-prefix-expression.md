@@ -66,7 +66,7 @@ printf("%d",pop());
 ```
 ## Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a9ebf44e-bd97-4cf8-bbcd-3e8e5a98eceb)
 
 
 ## Result:
